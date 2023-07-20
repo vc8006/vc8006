@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Chourasia</h1>
-<h3 align="center">Final year at IIT Guwahati</h3>
+<h3 align="center">IIT Guwahati 2023</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
